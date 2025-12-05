@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "id": "2",
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "year": 1994
+    },
+    {
+      "id": "3",
+      "title": "Dune",
+      "genre": "Sci-Fi",
+      "year": 2021
+    },
+    {
+      "id": "9c0c",
+      "title": "HelloWorld",
+      "genre": "scientific",
+      "year": 1905
+    }
+  ]
+}
